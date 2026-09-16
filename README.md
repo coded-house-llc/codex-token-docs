@@ -30,7 +30,7 @@ This repo is maintained by Coded House LLC. If you have a document to add or upd
 
 ## License
 
-[Specify license if applicable — otherwise remove this section]
+MIT License.
 
 ---
 
